@@ -11,21 +11,19 @@
 * Momento mão no código, momento de olho na tela
 
 <br>
-<br>
-
-### Pré - requisitos:
+#### Pré - requisitos:
 
 * Internet;
 
 * Computador.
 
-### Objetivos:
+##### Objetivos:
 
 * Fazer com que minhas alunas conheçam mais sobre a linguagem python
 
-### Conteúdos:
+##### Conteúdos:
 
-### Introdução a linguagem python
+##### Introdução a linguagem python
 
 * O que é Python?
 
@@ -39,15 +37,15 @@
 
 ​            \- Funcional
 
-### Historia
+##### Historia
 
-### Linha do tempo
+##### Linha do tempo
 
-**Apresentação & Contextualização:**
+#### Apresentação & Contextualização:
 - [Slides da aula](https://github.com/anapsantos1/planejamento_de_aula/blob/main/Introdu%C3%A7%C3%A3o%20a%20linguagem%20python.pptx)
 - [Exemplo de código](https://github.com/anapsantos1/planejamento_de_aula/blob/main/jogo_da_velha.py)
 
-### Programação da aula:
+#### Programação da aula:
 
 * Tempo de aula: 1:30 hora
 
