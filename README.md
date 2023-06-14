@@ -65,19 +65,19 @@
 ### Proxima Aula:
 ##### Instalação do python
 ##### Instalação do VC CODE
-### Caso você tenha experiência ou esteja a vontade para realizar a instalação, vou deixar o link para baixar os executaveis
+##### Caso você tenha experiência ou esteja a vontade para realizar a instalação, vou deixar o link para baixar os executaveis
 * Instalação Windows:
 - [WIN 11 - Python 3.11](https://www.python.org/downloads/)
 - [WIN 11 - VC CODE ](https://code.visualstudio.com/download)
 * Instalação MACos:
-  * Se você esta usando o MACos é legal usar o homebrew para instalação do python.
+* Se você esta usando o MACos é legal usar o homebrew para instalação do python.
 - [MACos_homebrew](https://brew.sh/index_pt-br)
 - [MACos_Python](https://python.org.br/instalacao-mac/)
-  * Instalação do pyenv:
-  - [MACos_pyenv](https://medium.com/thoughful-shower/how-to-install-python-pyenv-on-macos-e033c4afbba4)
-  * Apos a instalação do python pode baixar o VC Code para MACos
-  - [MACos_VCcode](https://formulae.brew.sh/cask/visual-studio-code)
- * Instalação linux UBUNTU 22:
+* Instalação do pyenv:
+- [MACos_pyenv](https://medium.com/thoughful-shower/how-to-install-python-pyenv-on-macos-e033c4afbba4)
+* Apos a instalação do python pode baixar o VC Code para MACos
+- [MACos_VCcode](https://formulae.brew.sh/cask/visual-studio-code)
+* Instalação linux UBUNTU 22:
 - [Ubuntu_Python](https://gist.github.com/luizomf/8623264cbf69cd2619bcdee258628f41)
 - [Ubuntu_VC_code](https://itonlineblog.wordpress.com/2020/06/15/guias-it-online-como-instalar-o-vs-code-no-ubuntu/)
    
