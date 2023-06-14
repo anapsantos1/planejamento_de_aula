@@ -44,8 +44,8 @@
 ### Linha do tempo
 
 **Apresentação & Contextualização:**
-- [Slides da aula](https://www.linkedin.com/in/ana-paula-lima-3269214b/)
-- [Exemplo de código](https://www.linkedin.com/in/ana-paula-lima-3269214b/)
+- [Slides da aula](https://github.com/anapsantos1/planejamento_de_aula/blob/main/Introdu%C3%A7%C3%A3o%20a%20linguagem%20python.pptx)
+- [Exemplo de código](https://github.com/anapsantos1/planejamento_de_aula/blob/main/jogo_da_velha.py)
 
 ### Programação da aula:
 
