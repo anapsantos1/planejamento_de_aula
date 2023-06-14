@@ -65,7 +65,7 @@
 ### Proxima Aula:
 ##### Instalação do python
 ##### Instalação do VC CODE
-##### Caso você tenha experiência ou esteja a vontade para realizar a instalação, vou deixar o link para baixar os executaveis
+##### Links úteis
 * Instalação Windows:
 - [WIN 11 - Python 3.11](https://www.python.org/downloads/)
 - [WIN 11 - VC CODE ](https://code.visualstudio.com/download)
