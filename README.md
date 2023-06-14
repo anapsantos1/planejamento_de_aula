@@ -13,25 +13,25 @@
 <br>
 <br>
 
-**Pré - requisitos:**
+### Pré - requisitos:
 
-Internet;
+* Internet;
 
-Computador.
+* Computador.
 
-**Objetivos:**
+### Objetivos:
 
-Fazer com que minhas alunas conheçam mais sobre a linguagem python
+* Fazer com que minhas alunas conheçam mais sobre a linguagem python
 
-**Conteúdos:**
+### Conteúdos:
 
-**Introdução a linguagem python**
+### Introdução a linguagem python
 
-- O que é Python?
+* O que é Python?
 
-- Linguagem Interpretada
+* Linguagem Interpretada
 
-- Características da linguagem:
+* Características da linguagem:
 
 ​            \- Imperativo ou Procedural
 
@@ -39,31 +39,27 @@ Fazer com que minhas alunas conheçam mais sobre a linguagem python
 
 ​            \- Funcional
 
-- Historia
+### Historia
 
-- Linha do tempo
-
-- A linguagem python pode ser aplicada
+### Linha do tempo
 
 **Apresentação & Contextualização:**
+- [Slides da aula](https://www.linkedin.com/in/ana-paula-lima-3269214b/)
+- [Exemplo de código](https://www.linkedin.com/in/ana-paula-lima-3269214b/)
 
-Slides da aula
+### Programação da aula:
 
-Exemplo de código
+* Tempo de aula: 1:30 hora
 
-**Programação da aula:**
+* Chamada - **10 min**
 
-Tempo de aula: 1:30 hora
+* Apresentação dos slides - **40 min**
 
-Chamada - **10 min**
+* Tirar duvidas - **20 min**
 
-Apresentação dos slides - **40 min**
+* Mostrar um exemplo de um codigo python – **20 min**
 
-Tirar duvidas - **20 min**
-
-Mostrar um exemplo de um codigo python – **20 min**
-
-**Recursos e Avaliação:**
+### Recursos e Avaliação:
 
 ## Ana Paula Lima 
 - [linkedin](https://www.linkedin.com/in/ana-paula-lima-3269214b/)
