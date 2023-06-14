@@ -59,8 +59,8 @@
 * Mostrar um exemplo de um codigo python – **20 min**
 
 ### Recursos e Avaliação:
-* Para esta aula a avaliação sera com base na participação das alunas e com uma explicação breve do que foi passado em aula. A explicação breve deve se anexada no Classroom, pode ser um audio de 2min ou uma doc.
-* Vou passar um forms com questões sobre o meu desempenho e sobre o conteudo passado, pra saber os pontos que preciso melhorar para a proxima aula.
+* Para esta aula a avaliação será com base na participação das alunas e com uma explicação breve do que foi passado em aula. A explicação breve deve se anexada no Classroom, pode ser um audio de 2min ou uma doc.
+* Vou passar um forms com questões sobre o meu desempenho e sobre o conteúdo passado, pra saber os pontos que preciso melhorar para a proxima aula.
 
 ### Proxima Aula:
 ##### Instalação do python
